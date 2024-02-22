@@ -1,6 +1,6 @@
 {
   "name": "dx-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DX Componentes para Quasar Framework",
   "main": "index.js",
   "scripts": {
