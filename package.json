@@ -8,5 +8,9 @@
   },
   "keywords": ["Cards", "Componentes"],
   "author": "Capuvilla DX",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "vue3-smooth-dnd": "^0.0.6",
+    "sortablejs": "^1.15.2"
+  }
 }
